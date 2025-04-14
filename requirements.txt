@@ -1,4 +1,5 @@
-requests
-python-telegram-bot
-scikit-learn
+pandas
 joblib
+requests
+scikit-learn
+python-dotenv
